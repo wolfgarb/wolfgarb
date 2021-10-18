@@ -12,10 +12,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wolfgarb&show_icons=true&locale=en" alt="wolfgarb" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfgarb&show_icons=true&locale=en&layout=compact" alt="wolfgarb" /></p>
-
-
-
-
+<br>
 <h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://instagram.com/wolfgarb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wolfgarb" height="30" width="40" /></a>
