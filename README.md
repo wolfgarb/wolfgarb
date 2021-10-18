@@ -1,14 +1,14 @@
 # Howdy! I'm Wolf
 ## My given name is Samantha Wolfskill. Full-stack dev in the making!
-#### I'm currently enrolled at **University of Richmond - Coding Bootcamp** // _Class of 2022!_
+#### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
+_Class of 2022!_
 
-### _Currently in the works..._
+### _In the works..._
 
 - Class assignment: **README generator**
 - Learning: **Node.js**
 - Resume building
 - Portfolio formatting
-
 
 #### I'm always wanting to learn something new! Feedback on my code is more than welcome.
 ### Reach out via e-mail:
