@@ -16,9 +16,9 @@ _Class of 2022!_
 ### Connect on LinkedIn:
 #### https://www.linkedin.com/in/srwolfskill/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfgarb&show_icons=true&locale=en&theme=aura-dark" alt="wolfgarb" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfgarb&show_icons=true&locale=en&theme=tokyonight" alt="wolfgarb" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfgarb&show_icons=true&locale=en&layout=compact&theme=aura-dark" alt="wolfgarb" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfgarb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wolfgarb" />
 
 <img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=0e75b6&style=flat" alt="wolfgarb" />
 
