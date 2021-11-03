@@ -4,8 +4,7 @@
 _Class of 2022!_
 
 ### In the works
-- Class assignment: **README generator**
-- Learning: **Node.js**
+- Learning: **Express.js**
 - Resume building
 - Portfolio formatting
 
