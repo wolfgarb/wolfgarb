@@ -19,6 +19,6 @@ _Class of 2022!_
 ### Connect on LinkedIn:
 #### https://www.linkedin.com/in/srwolfskill/
 
-<img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=0e75b6&style=flat" alt="wolfgarb" />
+<img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=0e75b6?style=for-the-badge&logo=appveyor" alt="wolfgarb" />
 
 
