@@ -1,5 +1,4 @@
 # Howdy! I'm Wolf 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 ## My given name is Samantha Wolfskill. Full-stack dev in the making!
 #### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
 _Class of 2022!_
@@ -19,6 +18,6 @@ _Class of 2022!_
 ### Connect on LinkedIn:
 #### https://www.linkedin.com/in/srwolfskill/
 
-<img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=0e75b6?style=for-the-badge&logo=appveyor" alt="wolfgarb" />
+<img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=FF0000?style=flat" alt="wolfgarb" />
 
 
