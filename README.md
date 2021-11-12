@@ -17,6 +17,8 @@ _Class of 2022!_
 #### **sraewolfskill@gmail.com**
 ### Connect on LinkedIn:
 #### https://www.linkedin.com/in/srwolfskill/
+### Socials:
+![](https://dcbadge.vercel.app/api/shield/746823093468790785)
 
 <img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=6F0B4F&style=flat" alt="wolfgarb" />
 
