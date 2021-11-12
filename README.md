@@ -4,7 +4,7 @@
 _Class of 2022!_
 
 ### In the works
-- Learning: **Express.js**
+- Learning: **MySQL**
 - Resume building
 - Portfolio formatting
 
