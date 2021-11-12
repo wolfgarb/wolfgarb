@@ -18,10 +18,10 @@ _Class of 2022!_
 <a href="mailto:sraewolfskill@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
-#### https://www.linkedin.com/in/srwolfskill/
+<a href="https://www.linkedin.com/in/srwolfskill">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
 ![](https://dcbadge.vercel.app/api/shield/746823093468790785)
-
-<img src="https://komarev.com/ghpvc/?username=wolfgarb&label=Profile%20views&color=6F0B4F&style=flat" alt="wolfgarb" />
 
 
