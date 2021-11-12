@@ -15,7 +15,7 @@ _Class of 2022!_
 #### I'm always wanting to learn something new! Feedback on my code is more than welcome.
 
 ### Connect
-![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:sraewolfskill@gmail.com)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 #### https://www.linkedin.com/in/srwolfskill/
 
 ![](https://dcbadge.vercel.app/api/shield/746823093468790785)
