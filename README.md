@@ -1,4 +1,5 @@
-# Howdy! I'm Wolf
+# Howdy! I'm Wolf 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 ## My given name is Samantha Wolfskill. Full-stack dev in the making!
 #### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
 _Class of 2022!_
