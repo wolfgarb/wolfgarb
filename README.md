@@ -23,6 +23,6 @@ _Class of 2022!_
  </a>
 <a href
 
-![](https://dcbadge.vercel.app/api/shield/746823093468790785)
+![](https://dcbadge.vercel.app/api/shield/746823093468790785?compact=true)
 
 
