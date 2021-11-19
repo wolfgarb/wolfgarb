@@ -15,7 +15,7 @@ _Class of 2022!_
 #### I'm always wanting to learn something new! Feedback on my code is more than welcome.
 
 ### Credit
-Thank you to ![Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
+Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
 Please check out her wonderful art! 🌙
 
 ### Connect
