@@ -1,4 +1,4 @@
-# Howdy! I'm Wolf <img src="https://tinyimg.io/i/4UqH1oV.png" />
+# Howdy! I'm Wolf 🐺
 ## My given name is Samantha Wolfskill. Full-stack dev in the making!
 #### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
 _Class of 2022!_
