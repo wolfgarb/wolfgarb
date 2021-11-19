@@ -14,6 +14,10 @@ _Class of 2022!_
 
 #### I'm always wanting to learn something new! Feedback on my code is more than welcome.
 
+### Credit
+Thank you to ![Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
+Please check out her wonderful art! 🌙
+
 ### Connect
 <a href="mailto:sraewolfskill@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
