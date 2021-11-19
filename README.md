@@ -1,4 +1,4 @@
-# Howdy! I'm Wolf 
+# Howdy! I'm Wolf https://www.gaiaonline.com/badge/45600354/?_gaia_mkt_=410
 ## My given name is Samantha Wolfskill. Full-stack dev in the making!
 #### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
 _Class of 2022!_
