@@ -1,5 +1,5 @@
 # Howdy! I'm Wolf 🐺
-## My given name is Samantha Wolfskill. Full-stack dev in the making!
+## My given name is Samantha Wolfskill. Full-stack dev with a passion for UX/UI.
 #### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
 _Class of 2022!_
 
