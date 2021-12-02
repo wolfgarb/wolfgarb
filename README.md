@@ -4,7 +4,9 @@
 _Class of 2022!_
 
 ### In the works
-- Learning: **MySQL**
+
+- Full-stack project: [Pantry Hacker](https://github.com/wolfgarb/pantry-hacker)
+- Learning: **Sequelize**
 - Resume building
 - Portfolio formatting
 
