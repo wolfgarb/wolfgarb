@@ -1,14 +1,13 @@
-# Howdy! I'm Wolf 🐺
-## My given name is Samantha Wolfskill. Full-stack dev with a passion for UX/UI.
+# Howdy! I'm Wolf 🐺 (she/her/they/them)
+## My birth name is Samantha Wolfskill. I'm full-stack JavaScript developer with a passion for UX/UI.
 #### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
 _Class of 2022!_
 
 ### In the works
 
-- Full-stack project: [Pantry Hacker](https://github.com/wolfgarb/pantry-hacker)
-- Learning: **Sequelize**
-- Resume building
-- Portfolio formatting
+- Learning: **React**
+- Interview prepping: Send me problems to solve or your favorite YouTube videos for technical interviews!
+- Resume & portfolio formatting
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfgarb&show_icons=true&locale=en&theme=dark" alt="wolfgarb" />
 
