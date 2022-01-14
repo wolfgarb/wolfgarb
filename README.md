@@ -1,7 +1,7 @@
-# Howdy! I'm Wolf 🐺 (she/her/they/them)
+# Howdy! I'm Wolf 🐺 
+_she/her/they/them_
+
 ## My birth name is Samantha Wolfskill. I'm full-stack JavaScript developer with a passion for UX/UI.
-#### I'm currently enrolled at **University of Richmond - Coding Bootcamp**
-_Class of 2022!_
 
 ### In the works
 
