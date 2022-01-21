@@ -1,7 +1,7 @@
 # Howdy! I'm Wolf 🐺 
 _she/her/they/them_
 
-## My birth name is Samantha Wolfskill. I'm full-stack JavaScript developer with a passion for UX/UI.
+## My birth name is Samantha Wolfskill. I'm a full-stack JavaScript developer with a proclivity for UX/UI. I love solving puzzles, enhancing code, and creating/collaborating on projects. 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfgarb&show_icons=true&locale=en&theme=dark" alt="wolfgarb" />
 
