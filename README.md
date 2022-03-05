@@ -7,11 +7,13 @@ _she/her/they/them_
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfgarb&show_icons=true&locale=en&layout=compact&theme=dark" alt="wolfgarb" />
 
-### Current projects
+### Currently...
 
-- Learning: **React**
+- Improving old projects
+- Practicing alogrithm challenges
+- Reviewing and doumenting notes
 - Interview prepping: Send me problems to solve or your favorite YouTube videos for technical interviews!
-- Resume & portfolio formatting
+- Formatting portfolio and resume
 
 ### Credit
 Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
