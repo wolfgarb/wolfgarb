@@ -7,13 +7,17 @@ _she/they/_
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfskillobyte&show_icons=true&locale=en&layout=compact&theme=dark" alt="wolfskillobyte" />
 
-### Currently...
 
-- Improving old projects
-- Practicing alogrithm challenges
-- Reviewing and doumenting notes
-- Interview prepping: Send me problems to solve or your favorite YouTube videos for technical interviews!
-- Formatting portfolio and resume
+### I AM A Front-end Dev for Wyndham Destinations!
+#### I'm currently:
+- Writing unit tests for React components
+- Utilizing AEM to render components before release
+- Working with both designers and devs to maintain the sites affiliated with Wyndham
+#### In my down time:
+- Pursuing a certification for SASS & Advanced CSS
+- Learning to use Blender for 3D modeling
+- Frameworking a videogame. No leaks (;
+- Studying Japanese. 私が学生！
 
 ### Credit
 Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
