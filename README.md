@@ -10,13 +10,12 @@ _she/they/_
 
 ### I AM A Front-end Dev for Wyndham Destinations!
 #### I'm currently:
-- Writing unit tests for React components
-- Utilizing AEM to render components before release
-- Working with both designers and devs to maintain the sites affiliated with Wyndham
+- Writing unit tests for React components with Storybook
+- Learning the in's and out's of AEM
+- Working with designers and devs to maintain Club Wyndham sites
 #### In my down time:
 - Pursuing a certification for SASS & Advanced CSS
 - Learning to use Blender for 3D modeling
-- Frameworking a videogame. No leaks (;
 - Studying Japanese. 私が学生！
 
 ### Credit
