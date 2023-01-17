@@ -8,8 +8,6 @@ I have been self-taught since 2021 and completed a JavaScript full-stack certifi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfskillobyte&show_icons=true&locale=en&layout=compact&theme=dark" alt="wolfskillobyte" />
 
-### Credit
-Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
 
 ### Connect
 ####
@@ -19,8 +17,13 @@ Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator.
 <a href="https://www.linkedin.com/in/srwolfskill">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
-<a href
-
+ 
 ![](https://dcbadge.vercel.app/api/shield/746823093468790785?compact=true)
+
+   
+### Credit
+Thank you to [Mandy](https://ummmmandy.tumblr.com/) for her avatar-creator. 
+
+
 
 
