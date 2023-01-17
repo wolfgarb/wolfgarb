@@ -1,5 +1,5 @@
 # Howdy! I'm Wolf 🐺 
-_she/they/_
+_she/they_
 
 ## My birth name is Samantha Wolfskill. I'm a TypeScript/React and AEM developer with a JavaScript background. 
 
