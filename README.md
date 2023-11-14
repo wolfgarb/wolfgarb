@@ -1,6 +1,6 @@
 # Howdy! I'm Wolf 🐺 
 
-## My birth name is Samantha Wolfskill. I'm a TypeScript/React and AEM developer with a JavaScript background. 
+## My birth name is Samantha Wolfskill. I'm a TypeScript/React developer with a JavaScript background. 
 
 I have been self-taught since 2021 and completed a JavaScript full-stack certification in February of 2022. Before programming, I did Graphic Design and Fine Art. I continue to create in my down time, and love to build miniatures, paint, and draw digitally via Procreate.
 
